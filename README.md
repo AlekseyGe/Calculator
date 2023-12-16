@@ -3,6 +3,8 @@ Language : us | [ru](./README.ru-RU.md)
 ## Calculator
 This is a `fully working calculator`! The calculator was created in the `Android Studo` program, has a beautiful design and even a function for adding brackets
 
+![Gif](gif.gif) 
+
  ## Compatibility
 
 > The calculator was created in Android Studio and unfortunately `it cannot be used in Apple phones`
